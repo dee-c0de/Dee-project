@@ -1,3 +1,3 @@
 DEMO
 
-Some descriptions about my first project
+Some descriptions about my first project in software development
